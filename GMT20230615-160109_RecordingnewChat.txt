@@ -1,0 +1,14 @@
+00:00:41	Ruslan_:	Здравствуйте, Сергей!
+00:01:08	Ruslan_:	Слышно и видно Вас отлично.
+00:21:09	Координатор Skillfactory:	https://www.kaggle.com/code/mamonmega/baseline-v1
+00:24:13	Ruslan_:	без проюлем
+00:24:56	Ruslan_:	Вот по этой ссылке
+https://us02web.zoom.us/j/83986524236?pwd=aXlGcUZUWVRLSVlPK1Z3Mno3WTBvUT09#success
+00:50:51	Координатор Skillfactory:	https://github.com/mculab64/data_science/blob/main/chapter_5/chapter_5.ipynb
+01:00:57	Координатор Skillfactory:	https://colab.research.google.com/drive/1K2gwcIdS3PkhLxFILiPbMBfgtie-o8ta?usp=sharing
+01:03:30	Координатор Skillfactory:	https://us02web.zoom.us/rec/share/KCt7eiT_DUxmyGaHcCLT19ELIJtqrhj0u0CmCxBUkr2k1al-XVcxA12Xve04B7H1.e6Xe2QzqDkjx0aYi?startTime=1677167964000Код доступа: Bpx=8w2P
+01:06:27	Ruslan_:	Эти признаки будут мультиколлинеарны
+01:06:43	Ruslan_:	эти 4
+01:06:57	Ruslan_:	позитив, негатив
+01:09:46	Координатор Skillfactory:	https://docs.google.com/forms/d/e/1FAIpQLScV-_4J0RMEpnTw1PEabGZIfnT5pD0JtzMdPJ2NXgnd2CRihw/viewform
+01:14:17	Ruslan_:	Спасибо, Сергей! Узнал кое что новое.
