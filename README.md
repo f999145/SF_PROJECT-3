@@ -1,7 +1,7 @@
 # SF_PROJECT-3
 EDA / Feature Engineering / Kaggle
 
->Ссылка на работу: [ссылка](EDA_Project_3_model v2.ipynb)
+>Ссылка на работу: [EDA_Project_3_model v2.ipynb](https://github.com/f999145/SF_PROJECT-3/blob/main/EDA_Project_3_model%20v2.ipynb)
 
 >Ссылка на Kaggle: [ссылка](https://www.kaggle.com/code/f999145/hotels)
 
